@@ -1,5 +1,5 @@
 ![header](https://i.ibb.co/NFM5hMn/Solid-To-Gradient.png)
-# SolidToGradient Script
+# SolidToGradient Adobe Illustrator Script
 
 Языки: [English](README.md), [Русский](README.ru.md)
  
