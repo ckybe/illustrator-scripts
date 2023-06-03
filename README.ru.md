@@ -1,4 +1,4 @@
-![header](https://i.ibb.co/kKvHQFf/Solid-To-Gradient.png)
+![header](https://i.ibb.co/NFM5hMn/Solid-To-Gradient.png)
 # SolidToGradient Script
 
 Языки: [English](README.md), [Русский](README.ru.md)
