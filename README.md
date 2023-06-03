@@ -1,14 +1,9 @@
 ![header](https://i.ibb.co/kKvHQFf/Solid-To-Gradient.png)
-# Adobe Illustrator Scripts
+# SolidToGradient Script
 
 Languages: [English](README.md), [Русский](README.ru.md)
  
-## Download
-1. In the script description, click the "Direct Link" button.
-2. The tab will open the script code.
-3. Press <kbd>Cmd/Ctrl</kbd> + <kbd>S</kbd> for download.
-
-## Run
+## Download and Run
 
 1. [Download archive] and unzip. All scripts are in the folder `Scripts`
 2. Place `<script_name>.jsx` in the Adobe Illustrator Scripts folder:
@@ -48,5 +43,3 @@ Thank you for support [Buymeacoffee], [Tinkoff], [ЮMoney], [Donatty], [DonatePa
 <a href="https://new.donatepay.ru/@artemdemidenko">
   <img width="111" height="40" src="https://i.ibb.co/XzWKnDh/Solid-To-Gradient-DP.png">
 </a>
-
-* [SolidToGradient](https://github.com/creold/illustrator-scripts/blob/master/md/SolidToGradient.md#artboardsfinder)
