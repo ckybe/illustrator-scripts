@@ -3,6 +3,12 @@
 
 Languages: [English](README.md), [Русский](README.ru.md)
  
+## Description
+
+SolidToGradient script turns selected solid color objects into a gradient that made of all selected objects colors.
+
+![SolidToGradient](https://i.ibb.co/XyrHKT9/Solid-To-Gradient.gif") 
+ 
 ## Download and Run
 
 1. [Download archive] and unzip. All scripts are in the folder `Scripts`
