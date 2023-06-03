@@ -10,7 +10,7 @@ Languages: [English](README.md), [Русский](README.ru.md)
 
 ## Run
 
-1. [Download archive] and unzip. All scripts are in the folder `jsx`
+1. [Download archive] and unzip. All scripts are in the folder `Scripts`
 2. Place `<script_name>.jsx` in the Adobe Illustrator Scripts folder:
 	- Mac: `/Applications/Adobe Illustrator [vers.]/Presets.localized/en_GB/Scripts`
 	- Windows (32 bit): `C:\Program Files (x86)\Adobe\Adobe Illustrator [Version]\Presets\en_GB\Scripts\`
@@ -48,3 +48,5 @@ Thank you for support [Buymeacoffee], [Tinkoff], [ЮMoney], [Donatty], [DonatePa
 <a href="https://new.donatepay.ru/@artemdemidenko">
   <img width="111" height="40" src="https://i.ibb.co/XzWKnDh/Solid-To-Gradient-DP.png">
 </a>
+
+* [SolidToGradient](https://github.com/creold/illustrator-scripts/blob/master/md/SolidToGradient.md#artboardsfinder)
