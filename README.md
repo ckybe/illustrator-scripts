@@ -18,7 +18,7 @@ Languages: [English](README.md), [Русский](README.ru.md)
 	- RU lang: `C:\Program Files\Adobe\Adobe Illustrator [Версия]\Стили\ru_RU\Сценарии\`
 3. Restart Adobe Illustrator
 
-[Download archive]: https://bit.ly/2M0j95N
+[Download archive]: https://bit.ly/45XRmIL
 
 ## Donate
 Thank you for support [Buymeacoffee], [Tinkoff], [ЮMoney], [Donatty], [DonatePay]   
