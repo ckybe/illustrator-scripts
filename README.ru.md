@@ -1,12 +1,16 @@
-# ColorToGradient Adobe Illustrator Script
+![header](https://i.ibb.co/ggMB1z7/ScrCkybe.png)
+# Adobe Illustrator Scripts by CkyBe
 
-Язык: [English](README.md), [Русский](README.ru.md)
- 
+Язык: [English](README.md), [Русский](README.ru.md) 
+
 ## Описание
 
-ColorToGradient скрипт превращает выделенные объекты со сплошными цветами в градиент, созданный из этих цветов.
+Эта коллекция создана с целью упростить жизнь графического дизайнера. Бесплатное использование, не для продажи.
 
-![ColorToGradient](https://i.ibb.co/yV4r1v2/ctg-med.gif) 
+## Скрипты
+
+* [ColorToGradient](Md/ColorToGradient.ru.md#colortogradient) Превращает выделенные объекты со сплошными цветами в градиент, созданный из этих цветов.
+* [SpectrumGradientSorter](Md/SpectrumGradientSorter.ru.md#spectrumgradientsorter) Сортирует цвета в выбранном градиенте по цветовому спектру.
  
 ## Скачать и установить
 
