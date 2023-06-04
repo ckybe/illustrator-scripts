@@ -1,6 +1,6 @@
 /*
   SpectrumGradientSorter.jsx for Adobe Illustrator
-  Description: Convert selected color objects to gradient
+  Description: Sorts the colors in the selected gradient according to the color spectrum
   Created: June 4, 2023 by Artem Demidenko
 
   Free to use, not for sale
