@@ -1,13 +1,14 @@
-![header](https://i.ibb.co/NFM5hMn/Solid-To-Gradient.png)
-# SolidToGradient Adobe Illustrator Script
+![header](https://i.ibb.co/C57XVF7/Color-To-Gradient.png)
+# ColorToGradient Adobe Illustrator Script
 
-Языки: [English](README.md), [Русский](README.ru.md)
+![ColorToGradient](https://i.ibb.co/yBj98Mv/ctg-small.gif) 
+Язык: [English](README.md), [Русский](README.ru.md)
  
 ## Описание
 
-SolidToGradient скрипт превращает выделенные объекты со сплошными цветами в градиент, созданный из этих цветов.
+ColorToGradient скрипт превращает выделенные объекты со сплошными цветами в градиент, созданный из этих цветов.
 
-![SolidToGradient](https://i.ibb.co/XyrHKT9/Solid-To-Gradient.gif") 
+![ColorToGradient](https://i.ibb.co/yBj98Mv/ctg-small.gif) 
  
 ## Скачивание и установка
 
