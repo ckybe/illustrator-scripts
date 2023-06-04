@@ -9,8 +9,8 @@ This collection created with love to make Graphic Designers work easier and more
 
 ## Scripts
 
-* [ColorToGradient](https://github.com/ckybe/illustrator-scripts/blob/main/Scripts/ColorToGradient.jsx#colortogradient) Convert selected color objects to gradient
-* [SpectrumGradientSorter](https://github.com/ckybe/illustrator-scripts/blob/main/Scripts/SpectrumGradientSorter.jsx#spectrumgradientsorter) Sorts the colors in the selected gradient according to the color spectrum
+* [ColorToGradient](ColorToGradient.md#colortogradient) Convert selected color objects to gradient
+* [SpectrumGradientSorter](SpectrumGradientSorter.md#spectrumgradientsorter) Sorts the colors in the selected gradient according to the color spectrum
 
 ## Download and Run
 
