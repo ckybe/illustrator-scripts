@@ -1,4 +1,4 @@
-# SpectrumGradientSorter Adobe Illustrator Script
+# SpectrumGradientSorter
 
 Язык: [English](SpectrumGradientSorter.md), [Русский](SpectrumGradientSorter.ru.md)
 
