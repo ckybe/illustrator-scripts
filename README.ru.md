@@ -6,7 +6,7 @@
 
 ColorToGradient скрипт превращает выделенные объекты со сплошными цветами в градиент, созданный из этих цветов.
 
-![ColorToGradient](https://i.ibb.co/v14yTLk/CtG.gif) 
+![ColorToGradient](https://i.ibb.co/yV4r1v2/ctg-med.gif) 
  
 ## Скачивание и установка
 
