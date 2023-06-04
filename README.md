@@ -1,13 +1,17 @@
-# ColorToGradient Adobe Illustrator Script
+![header](https://i.ibb.co/ggMB1z7/ScrCkybe.png)
+# Adobe Illustrator Scripts by CkyBe
 
 Languages: [English](README.md), [Русский](README.ru.md)
  
 ## Description
 
-ColorToGradient script turns selected color objects into a gradient.
+This collection created with love to make Graphic Designers work easier and more comfortable. Enjoy this scripts in your work. Free to use, not for sale.
 
-![ColorToGradient](https://i.ibb.co/yV4r1v2/ctg-med.gif) 
- 
+## Scripts
+
+* [ColorToGradient](https://github.com/ckybe/illustrator-scripts/blob/main/Scripts/ColorToGradient.jsx#colortogradient) Convert selected color objects to gradient
+* [SpectrumGradientSorter](https://github.com/ckybe/illustrator-scripts/blob/main/Scripts/SpectrumGradientSorter.jsx#spectrumgradientsorter) Sorts the colors in the selected gradient according to the color spectrum
+
 ## Download and Run
 
 1. [Download archive] and unzip. All scripts are in the folder `Scripts`
