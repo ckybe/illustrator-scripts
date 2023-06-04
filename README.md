@@ -7,7 +7,7 @@ Languages: [English](README.md), [Русский](README.ru.md)
 
 ColorToGradient script turns selected color objects into a gradient.
 
-![ColorToGradient](https://i.ibb.co/v14yTLk/CtG.gif) 
+![ColorToGradient](https://i.ibb.co/yBj98Mv/ctg-small.gif) 
  
 ## Download and Run
 
