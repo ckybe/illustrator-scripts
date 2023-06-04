@@ -1,4 +1,3 @@
-![header](https://i.ibb.co/C57XVF7/Color-To-Gradient.png)
 # ColorToGradient Adobe Illustrator Script
 
 Язык: [English](README.md), [Русский](README.ru.md)
