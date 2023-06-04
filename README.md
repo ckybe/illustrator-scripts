@@ -1,13 +1,13 @@
-![header](https://i.ibb.co/NFM5hMn/Solid-To-Gradient.png)
-# SolidToGradient Adobe Illustrator Script
+![header](https://i.ibb.co/C57XVF7/Color-To-Gradient.png)
+# ColorToGradient Adobe Illustrator Script
 
 Languages: [English](README.md), [Русский](README.ru.md)
  
 ## Description
 
-SolidToGradient script turns selected solid color objects into a gradient made of all selected colors.
+ColorToGradient script turns selected color objects into a gradient.
 
-![SolidToGradient](https://i.ibb.co/XyrHKT9/Solid-To-Gradient.gif") 
+![ColorToGradient]("https://i.ibb.co/v14yTLk/CtG.gif") 
  
 ## Download and Run
 
